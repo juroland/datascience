@@ -15,4 +15,4 @@ http://jupyter.readthedocs.io/en/latest/install.html).
 
 Once all the packages are installed, run the notebook An-introduction-to-Python.ipynb with jupyter (see, [Running the Notebook](http://jupyter.readthedocs.io/en/latest/running.html#running)). Click on the menu *Help -> User Interface Tour* for an overview of the user interface.
 
-1. [Introduction to Python](./introduction_to_python)
+1. [Introduction to Python](./labs/introduction_to_python)
