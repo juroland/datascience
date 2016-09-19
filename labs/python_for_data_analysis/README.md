@@ -2,7 +2,7 @@
 
 ## Requirements
 
-The following packages have to be installed in you environment :
+The following packages have to be installed in your working environment :
 
 * numpy
 * matplotlib
