@@ -24,6 +24,7 @@ The following packages have to be installed for the next labs.
 * statsmodel
 * seaborn
 * scipy
+* networkx
 
 ## Notebooks
 
