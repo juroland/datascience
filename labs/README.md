@@ -30,3 +30,4 @@ The following packages have to be installed for the next labs.
 
 1. [Introduction to Python](introduction_to_python)
 1. [Python for data analysis](python_for_data_analysis)
+1. [Exploratory data analysis](exploratory_data_analysis)
