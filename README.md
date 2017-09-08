@@ -1,4 +1,4 @@
-# Data Science
+Data Science
 
 *Data Science* is a field whose purpose is to extract knowledge from large-scale data. It is based
 on techniques from various domains such as data mining, machine learning, artificial intelligence,
@@ -32,6 +32,7 @@ Based on the use of the Python programming language, this course address the fol
 ## References
 
 Lectures and labs materials are based on the following resources :
+* [The Data Science Design Manual](http://data-manual.com/), by Steven Skiena, Texts in Computer Science, Springer 2017.
 * [Boston University CS591 "Tools and Techniques for Data Mining and Applications" course](ihttps://github.com/dataminingapp/dataminingapp-lectures)
 * Mining of Massive Datasets, by Jure Leskovec, Anand Rajaraman, Jeffrey David Ullman, Cambridge University Press, 2014
 * The Elements of Statistical Learning: Data Mining, Inference, and Prediction, by Trevor Hastie and Robert Tibshirani, Springer, 2009
