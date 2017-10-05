@@ -6,6 +6,6 @@
     * [Probability](Probability.ipynb)
     * Statistics
 1. Mathematical Models
-1. [Bayesian Classification](Naive-Bayes.ipynb)
+    * [Bayesian Classification](Naive-Bayes.ipynb)
 1. Linear and Logistic Regression
 1. Distance and Network Methods
