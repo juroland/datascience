@@ -4,7 +4,7 @@
 1. [Data Types](Data-Types.ipynb)
 1. Mathematical Preliminaries
     * [Probability](Probability.ipynb)
-    * Statistics
+    * [Statistics](Statistics.ipynb)
 1. Mathematical Models
     * [Bayesian Classification](Naive-Bayes.ipynb)
 1. Linear and Logistic Regression
