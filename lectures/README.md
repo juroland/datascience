@@ -8,4 +8,7 @@
 1. Mathematical Models
     * [Bayesian Classification](Naive-Bayes.ipynb)
 1. Linear and Logistic Regression
+    * [Linear Algebra](Linear-Algebra.ipynb)
+    * [Linear and Logistic Regression](Linear-and-Logistic-Regression.ipynb)
 1. Distance and Network Methods
+
