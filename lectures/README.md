@@ -12,5 +12,5 @@
     * [Linear and Logistic Regression](Linear-and-Logistic-Regression.ipynb)
 1. Distance and Network Methods
     * [Distance Methods](Distance-Methods.ipynb)
-    * Clustering
+    * [Clustering](Clustering.ipynb)
     * Graphs and Networks
