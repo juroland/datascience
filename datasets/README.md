@@ -8,3 +8,4 @@
     * API_NY.GDP.MKTP.CD_DS2_en_csv_v2.csv
     * API_SE.ADT.LITR.ZS_DS2_en_csv_v2.csv
     * API_SP.POP.TOTL_DS2_en_csv_v2.csv
+* nhanes.csv : https://www.statcrunch.com/app/index.php?dataid=1406047
