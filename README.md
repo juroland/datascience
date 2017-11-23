@@ -39,3 +39,14 @@ Lectures and labs materials are based on the following resources :
 * Data Science from Scratch, by Joel Grus, O'Reilly, 2015
 * Dhar, V., Data Science and Prediction, Communications of the ACM, Vol. 56 No. 12, December 2013.
 * https://cloud.google.com/bigquery/public-data/
+* https://github.com/yeseullee/Data-science-design-manual-notebooks
+
+## License
+
+Except where otherwise noted, both the instructional material and the code in this repository are
+licensed under the Creative Commons Attribution 4.0 International License. To view a copy of this
+license, visit http://creativecommons.org/licenses/by/4.0/.
+
+Additionally, except where otherwise noted, the Python code included in this repository is
+distributed under the terms of the MIT license (http://opensource.org/licenses/mit-license.html).
+A copy of this license is provided inside the MIT-LICENSE file.
